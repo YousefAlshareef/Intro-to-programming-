@@ -1,0 +1,32 @@
+/* add your CSS here */
+
+
+.div1    {  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;
+ box-shadow: 5px 10px #D3D3D3;
+  width: 300px;
+border-color: #D3D3D3;
+}
+
+
+.div2 {  border: 1px solid; 
+         border-color: #D3D3D3;
+
+}
+
+
+
+.div3 { 
+ margin-right: 5px;
+  margin-left: 5px;
+}
+
+#p1 { font-style: italic;
+margin-right: 5px;
+  margin-left: 5px;
+}
+
+img {
+width: 300px;
+}
